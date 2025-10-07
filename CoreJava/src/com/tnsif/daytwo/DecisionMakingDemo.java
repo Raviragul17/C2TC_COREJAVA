@@ -1,4 +1,4 @@
-package Daytwo;
+package com.tnsif.daytwo;
 
 import java.util.Scanner;
 

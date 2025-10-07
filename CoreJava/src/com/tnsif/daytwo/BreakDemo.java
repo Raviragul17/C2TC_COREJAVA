@@ -1,4 +1,4 @@
-package Daytwo;
+package com.tnsif.daytwo;
 
 public class BreakDemo {
 	public static void main(String[] args) {
